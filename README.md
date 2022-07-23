@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-A Sorting Vizualizer project created by Hamaad Yousaf using React.
+A Sorting Vizualizer project created using React.
 
 #### Algorithims:
 
