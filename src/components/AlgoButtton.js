@@ -1,5 +1,3 @@
-//CREATED BY: HAMAAD YOUSAF 2022-07-05
-
 export default function AlgoButtton({ title, selected, handleclick }) {
     const styles = {
         backgroundColor: !selected ? "#313131" : "#6D6D6D",

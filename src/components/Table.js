@@ -1,5 +1,3 @@
-//CREATED BY: HAMAAD YOUSAF 2022-07-05
-
 export default function Table({ stats }) {
 
     const time = stats.split("|")
