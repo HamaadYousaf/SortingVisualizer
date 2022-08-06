@@ -1,5 +1,3 @@
-//CREATED BY: HAMAAD YOUSAF 2022-07-05
-
 import { update, unsort } from "../helper"
 import { useEffect, useState } from "react"
 

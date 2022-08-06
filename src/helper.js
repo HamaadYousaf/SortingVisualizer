@@ -1,5 +1,3 @@
-//CREATED BY: HAMAAD YOUSAF 2022-07-05
-
 export function update(arr, length, displayType, index) {
     let elements = ""
     switch (displayType) {

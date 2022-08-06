@@ -1,5 +1,3 @@
-//CREATED BY: HAMAAD YOUSAF 2022-07-05
-
 import { sleep } from "../helper";
 
 async function buildMaxHeap(arr, speed, display) {

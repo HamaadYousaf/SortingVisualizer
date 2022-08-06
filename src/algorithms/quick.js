@@ -1,5 +1,3 @@
-//CREATED BY: HAMAAD YOUSAF 2022-07-05
-
 import { sleep } from "../helper";
 
 export async function runQuick(arr, speed, display) {

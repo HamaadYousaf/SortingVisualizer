@@ -1,5 +1,3 @@
-//CREATED BY: HAMAAD YOUSAF 2022-07-05
-
 import { useReducer, useState } from "react";
 import Header from "./components/Header";
 import SideBar from "./components/SideBar";
